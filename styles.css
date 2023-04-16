@@ -1,0 +1,17 @@
+body {
+
+}
+
+.main-container {
+    height: 98vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#results {
+    font-size: 2vh;
+    margin-top: 5vh;
+}
+
